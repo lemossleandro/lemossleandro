@@ -6,35 +6,25 @@
 
 - 💼 &nbsp; Trabalhando como **Desenvolvedor** na <a  href="http://gonpetro.com.br">GonPetro</a>  
 
-- 🌱 &nbsp; Atualmente me aprimorando em **JS, React e DevOps**.
+- 🌱 &nbsp; Atualmente buscando aprimoramento em **JS, React e DevOps**.
   
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
+<h3> :rocket: &nbsp;Skills </h3>
   
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)  
-
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-
-![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)  
-
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)  
-
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)  
-
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)  
-
-![ADVPL](https://img.shields.io/badge/totvs-advpl-blue)  
-
-![MySQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft)  
- 
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![ADVPL](https://img.shields.io/badge/totvs-advpl-blue)
+![MySQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=microsoft)   
 
 **Utilidades**
   
 ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-  
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-
 
 **DevOps**
   
@@ -45,6 +35,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
+
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
