@@ -44,7 +44,7 @@
 <br/>
 
 <a  href="https://github.com/lemossleandro">
-<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=lemossleandro&theme=dracula&show_icons=true" />
+<img  height="180em"  src="https://github-readme-stats.vercel.app/api?username=lemossleandro&count_private=true&theme=dracula&show_icons=true" />
 </a>
 
 <br/>
