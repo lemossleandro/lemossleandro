@@ -6,7 +6,7 @@
 
 - 💼 &nbsp; Trabalhando como **Desenvolvedor** na <a  href="http://gonpetro.com.br">GonPetro</a>  
 
-- 🌱 &nbsp; Atualmente buscando aprimoramento em **JS, React e DevOps**.
+- 🌱 &nbsp; Atualmente buscando aprimoramento em **JS, React**.
   
 
 <h3> :rocket: &nbsp;Skills </h3>
